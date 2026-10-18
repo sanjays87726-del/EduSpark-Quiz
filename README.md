@@ -1,11 +1,11 @@
-# 🧠 EduSpark-Quiz 
+# 🧠 BrainSpark 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Thogaruchesti-hemanth/BrainSpark?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Thogaruchesti-hemanth/BrainSpark?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Thogaruchesti-hemanth/BrainSpark)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
-> 🎓 **EduSpark-Quiz** – A clean, animated mobile quiz app built with Java and Android Studio. Perfect for students, learners, interview prep, and developers who want to explore Android UI + logic in one place.
+> 🎓 **BrainSpark** – A clean, animated mobile quiz app built with Java and Android Studio. Perfect for students, learners, interview prep, and developers who want to explore Android UI + logic in one place.
 
 
 
@@ -46,7 +46,7 @@
 ## 📂 Folder Structure
 
 ```
-EduSpark-Quiz/
+BrainSpark/
 ├── app/
 │ └── src/
 │ └── main/
